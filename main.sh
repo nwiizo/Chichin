@@ -2,7 +2,7 @@
 echo "Commands to be executed on each host:"
 echo $@
 echo "==============================="
-hostfile=host.txt
+hostfile=./host.txt
 for exe_hosts in `cat ${hostfile} | grep -v ^#`
 do
   echo "|||||||||||||||||||||||||||||||||||||||||||||"
