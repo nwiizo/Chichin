@@ -1,4 +1,4 @@
-# ssh_command
+# Chichin
 Just to execute the command
 
 ```
