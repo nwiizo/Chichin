@@ -2,6 +2,7 @@
 Just to execute the command
 
 ```
-chmod 755 com.sh
-./com.sh 'ls'
+chmod 755 main.sh
+./main.sh 'ls'
+# output setting host.txt hosts 
 ```
