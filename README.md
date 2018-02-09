@@ -22,3 +22,7 @@ tcp        0      0 0.0.0.0:111             0.0.0.0:*               LISTEN      
 tcp        0      0 0.0.0.0:10022              0.0.0.0:*               LISTEN      1127/sshd
 ##############################################
 ```
+
+Setting file  
+ - ~/.ssh/config
+ - /etc/ssh/ssh_config
