@@ -24,5 +24,6 @@ tcp        0      0 0.0.0.0:10022              0.0.0.0:*               LISTEN   
 ```
 
 Setting file  
+ - ./host.txt
  - ~/.ssh/config
  - /etc/ssh/ssh_config
