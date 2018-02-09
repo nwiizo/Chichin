@@ -2,7 +2,7 @@
 Just to execute the command
 
 ```
- bash main.sh 'netstat -nltp'
+# bash main.sh 'netstat -nltp'
 Commands to be executed on each host:
 netstat -nltp
 =============================================
